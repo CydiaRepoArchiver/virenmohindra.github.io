@@ -3,7 +3,7 @@ Name: Hello Again - Springy BootLogo
 Depends: com.aditkamath.springy
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Animated respring theme for Springy
+Description: Animated respring theme for Springy. Credit: /u/Steve-luo
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Section: Addons (Springy)
